@@ -2,4 +2,5 @@ License plate recognition applications that reads the image of the car with lice
 
 
 testimage - used to train the k-means algorithm.
+
 forTraining.png  - used to train the k-means algorithm.
